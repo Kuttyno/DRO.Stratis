@@ -1,0 +1,1 @@
+execVM "raccourcis.sqf";

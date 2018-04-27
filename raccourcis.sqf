@@ -1,0 +1,13 @@
+execVM "raccourcis\earplugs.sqf";
+//execVM "raccourcis\rpt.sqf";
+//execVM "raccourcis\Vole.sqf";
+//execVM "raccourcis\push.sqf";
+//execVM "raccourcis\cyka.sqf";
+//execVM "raccourcis\pouette.sqf";
+//execVM "raccourcis\piano.sqf";
+//execVM "raccourcis\letargie.sqf";
+//execVM "raccourcis\weaponh.sqf";
+//execVM "raccourcis\explo.sqf";
+execVM "raccourcis\load.sqf";
+execVM "raccourcis\save.sqf";
+//execVM "raccourcis\speed.sqf";
