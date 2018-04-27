@@ -1,3 +1,4 @@
+coucou je susi le chieur
 diag_log "DRO: Main DRO script started";
 
 #include "sunday_system\sundayFunctions.sqf";
